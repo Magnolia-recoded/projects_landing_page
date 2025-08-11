@@ -72,3 +72,24 @@ h1 {
     border: 0;
     color: #ffffff;
 }
+
+.image-title {
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+}
+.services {
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+    gap: 100px;
+    color: #1f2937;
+    font-weight: 900;
+    
+
+}
+
+img {
+border: 3px solid #3882f6;
+border-radius: 10px;
+}
